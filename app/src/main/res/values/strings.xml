@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SwipeToActionCallback</string>
+
+    <string name="favourite">Favourite</string>
+    <string name="unfavourite">Unfavourite</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+</resources>
